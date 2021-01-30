@@ -6,7 +6,7 @@ coursera test repository
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Responsive Layout</title>
-	<link rel="stylesheet" type="text/css" href="cssfile.css">
+	<link rel="stylesheet" type="text/css" href="https://github.com/ShivamAgrawal-coder/coursera-test/cssfile.css">
 </head>
 <body>
 <h1> our menu</h1>
